@@ -1,0 +1,49 @@
+
+
+.school-name{
+    font-weight: 1200;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.exam-name{
+    font-weight: 1200;
+    font-size: 30px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+} 
+
+.table-bordered{
+    margin-top: 20px;
+}
+
+input{
+    border: 1px solid #fff;
+}
+
+ #info{
+    margin-top: 40px !important;
+}
+
+.details1{
+    margin: 10px 0 20px 0;
+} 
+
+.details1 label{
+    font-size: 16px;
+    font-weight: bold;
+}
+.details label{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#btn{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 15px;
+}
